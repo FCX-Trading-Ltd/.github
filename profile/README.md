@@ -15,9 +15,9 @@ Futures Exchange · Cryptocurrency · Financial Technology
 
 ## About FTX
 
-FTX is a cryptocurrency based  futures exchange focused on developing digital asset trading products, financial technology, and trading infrastructure.
+We are a cryptocurrency based futures exchange, focused on developing digital asset trading products, financial technology, and trading infrastructure.
 
-We company aim to provide innovative solutions for cryptocurrency markets through technology, product development, and financial infrastructure.
+We aim to provide innovative solutions for cryptocurrency markets through technology, product development, and financial infrastructure.
 
 Our work covers several areas of the digital asset ecosystem, including trading systems, market data, APIs, and developer tools.
 
