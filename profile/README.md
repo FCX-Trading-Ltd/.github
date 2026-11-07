@@ -65,7 +65,7 @@ We value strong engineering practices:
 **Collaboration** — Encouraging knowledge sharing and open development.
 **Innovation** — Exploring new approaches to financial technology.
 
-## ## Our Ecosystem
+## Our Ecosystem
 
 Our technology interests extended across several areas:
 
