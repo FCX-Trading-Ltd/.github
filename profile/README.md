@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FCX-Trading-Ltd/.github/main/assets/FCX_logo.png"
-       alt="FTX Logo">
+       alt="FTX Logo"
+    width="500">
 </p>
 <p align="center">
 <strong>Rebuilding the future of digital asset trading.</strong>
